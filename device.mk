@@ -37,8 +37,8 @@ AB_OTA_PARTITIONS += \
     vbmeta_system_ext \
     dtbo \
     l_ldsp \
-	l_agdsp \
-	l_cdsp \
+    l_agdsp \
+    l_cdsp \
     l_gdsp \
     l_modem \
     l_deltanv \
